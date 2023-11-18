@@ -1,5 +1,4 @@
-# This is a basic workflow to help you get started with Actions
-name: Waka Readme
+name: generate-snake
 
 on:
   push:
@@ -10,18 +9,6 @@ on:
     - cron: '30 10,15 * * *'
 
 jobs:
-  update-wakatime-readme:
-    name: Update wakatime
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_MASKED_TIME: true
-          SHOW_TITLE: true
-          BLOCKS: ->
-          TIME_RANGE: last_7_days
-
   generate-snake:
     permissions: 
       contents: write
@@ -38,7 +25,8 @@ jobs:
           outputs: |
             dist/github-snake.svg?color_snake=orange
             dist/github-snake-dark.svg?palette=github-dark&color_snake=orange
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake.gif?color_snake=orange
+            dist/github-snake-dark.gif?palette=github-dark&color_snake=orange
           
           
       # push the content of <build_dir> to a branch
