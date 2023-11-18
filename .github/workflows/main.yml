@@ -20,6 +20,7 @@ jobs:
           SHOW_MASKED_TIME: true
           SHOW_TITLE: true
           BLOCKS: ->
+          TIME_RANGE: all_time
 
   generate-snake:
     permissions: 
