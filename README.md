@@ -12,6 +12,13 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aerowang/aerowang/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aerowang/aerowang/output/github-snake.svg" />
+  <img  width="100%" alt="github-snake" src="https://raw.githubusercontent.com/aerowang/aerowang/output/github-snake.svg" />
+</picture>
+
+
 <!--
 **AeroWang/aerowang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
