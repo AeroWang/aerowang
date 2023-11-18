@@ -20,7 +20,7 @@ jobs:
           SHOW_MASKED_TIME: true
           SHOW_TITLE: true
           BLOCKS: ->
-          TIME_RANGE: all_time
+          TIME_RANGE: last_30_days
 
   generate-snake:
     needs: update-wakatime-readme
