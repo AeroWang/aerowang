@@ -7,7 +7,7 @@ on:
       - master
   workflow_dispatch:
   schedule:
-    - cron: '30 18,23 * * *'
+    - cron: '30 10,15 * * *'
 
 jobs:
   update-wakatime-readme:
@@ -20,7 +20,7 @@ jobs:
           SHOW_MASKED_TIME: true
           SHOW_TITLE: true
           BLOCKS: ->
-          TIME_RANGE: last_30_days
+          TIME_RANGE: last_7_days
 
   generate-snake:
     needs: update-wakatime-readme
