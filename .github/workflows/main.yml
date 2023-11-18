@@ -23,7 +23,6 @@ jobs:
           TIME_RANGE: last_7_days
 
   generate-snake:
-    needs: update-wakatime-readme
     permissions: 
       contents: write
     runs-on: ubuntu-latest
