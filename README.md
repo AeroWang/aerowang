@@ -3,11 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2023 - To: 17 November 2023
+From: 11 November 2023 - To: 18 November 2023
 
-Total Time: 0 secs
+Total Time: 3 hrs 23 mins
 
-No activity tracked
+Go             2 hrs 9 mins    >>>>>>>>>>>>>>>>---------   63.46 %
+Docker         31 mins         >>>>---------------------   15.46 %
+Dockerfile     21 mins         >>>----------------------   10.46 %
+YAML           20 mins         >>>----------------------   10.15 %
+Markdown       0 secs          -------------------------   00.24 %
 ```
 
 <!--END_SECTION:waka-->
