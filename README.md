@@ -7,7 +7,11 @@ From: 13 November 2023 - To: 20 November 2023
 
 Total Time: 8 hrs 45 mins
 
-No activity tracked
+Go             5 hrs 29 mins   >>>>>>>>>>>>>>>>---------   62.65 %
+TypeScript     52 mins         >>-----------------------   09.95 %
+JavaScript     46 mins         >>-----------------------   08.76 %
+Docker         41 mins         >>-----------------------   07.98 %
+Dockerfile     23 mins         >------------------------   04.43 %
 ```
 
 <!--END_SECTION:waka-->
