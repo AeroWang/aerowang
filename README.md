@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2023 - To: 20 November 2023
+From: 14 November 2023 - To: 21 November 2023
 
-Total Time: 8 hrs 45 mins
+Total Time: 17 hrs 2 mins
 
-Go             5 hrs 29 mins   >>>>>>>>>>>>>>>>---------   62.65 %
-TypeScript     52 mins         >>-----------------------   09.95 %
-JavaScript     46 mins         >>-----------------------   08.76 %
-Docker         41 mins         >>-----------------------   07.98 %
-Dockerfile     23 mins         >------------------------   04.43 %
+TypeScript       6 hrs 8 mins    >>>>>>>>>----------------   36.01 %
+Go               6 hrs 6 mins    >>>>>>>>>----------------   35.86 %
+JavaScript       51 mins         >------------------------   05.00 %
+Docker           41 mins         >------------------------   04.10 %
+Less             38 mins         >------------------------   03.80 %
 ```
 
 <!--END_SECTION:waka-->
