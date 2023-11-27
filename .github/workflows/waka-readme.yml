@@ -21,3 +21,6 @@ jobs:
           SHOW_TITLE: true
           BLOCKS: ->
           TIME_RANGE: last_7_days
+          LANG_COUNT: 6
+          IGNORED_LANGUAGES: YAML YML JSON
+          CODE_LANG: javascript
