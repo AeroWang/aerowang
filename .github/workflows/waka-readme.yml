@@ -23,4 +23,4 @@ jobs:
           TIME_RANGE: last_7_days
           LANG_COUNT: 6
           IGNORED_LANGUAGES: YAML YML JSON
-          CODE_LANG: javascript
+          CODE_LANG: golang
