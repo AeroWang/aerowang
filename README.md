@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 
-```txt
+```javascript
 From: 19 November 2023 - To: 26 November 2023
 
 Total Time: 42 hrs 36 mins
@@ -11,7 +11,7 @@ Go               18 hrs 5 mins   >>>>>>>>>>>--------------   42.45 %
 TypeScript       7 hrs 52 mins   >>>>>--------------------   18.48 %
 Vue.js           5 hrs 41 mins   >>>----------------------   13.34 %
 JavaScript       2 hrs 30 mins   >------------------------   05.87 %
-YAML             2 hrs 25 mins   >------------------------   05.68 %
+HTML             1 hr 14 mins    >------------------------   02.92 %
 ```
 
 <!--END_SECTION:waka-->
