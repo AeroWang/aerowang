@@ -17,9 +17,9 @@ HTML             55 mins         >------------------------   02.06 %
 <!--END_SECTION:waka-->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aerowang/aerowang/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aerowang/aerowang/output/github-snake.svg" />
-  <img  width="100%" alt="github-snake" src="https://raw.githubusercontent.com/aerowang/aerowang/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="/../output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="/../output/github-snake.svg" />
+  <img  width="100%" alt="github-snake" src="/../output/github-snake.svg" />
 </picture>
 
 
