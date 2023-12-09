@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```golang
-From: 30 November 2023 - To: 07 December 2023
+From: 01 December 2023 - To: 08 December 2023
 
-Total Time: 31 hrs 8 mins
+Total Time: 28 hrs 24 mins
 
-Vue.js           17 hrs 13 mins  >>>>>>>>>>>>>>-----------   55.33 %
-Go               6 hrs 56 mins   >>>>>>-------------------   22.29 %
-JavaScript       2 hrs 38 mins   >>-----------------------   08.50 %
-HTTP Request     40 mins         >------------------------   02.16 %
-HTML             37 mins         >------------------------   02.03 %
+Vue.js           15 hrs 58 mins  >>>>>>>>>>>>>>-----------   56.22 %
+Go               6 hrs 56 mins   >>>>>>-------------------   24.42 %
+JavaScript       1 hr 46 mins    >>-----------------------   06.25 %
+HTTP Request     40 mins         >------------------------   02.37 %
+TypeScript       31 mins         -------------------------   01.88 %
 ```
 
 <!--END_SECTION:waka-->
