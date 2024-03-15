@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```golang
-From: 06 March 2024 - To: 13 March 2024
+From: 07 March 2024 - To: 14 March 2024
 
-Total Time: 34 hrs 42 mins
+Total Time: 38 hrs 28 mins
 
-JavaScript             21 hrs 39 mins  >>>>>>>>>>>>>>>>---------   62.38 %
-Java                   4 hrs 22 mins   >>>----------------------   12.60 %
-TypeScript             2 hrs 19 mins   >>-----------------------   06.67 %
-Groovy                 1 hr 21 mins    >------------------------   03.93 %
-Markdown               54 mins         >------------------------   02.64 %
+JavaScript        29 hrs 33 mins  >>>>>>>>>>>>>>>>>>>------   76.82 %
+Java              3 hrs 57 mins   >>>----------------------   10.30 %
+TypeScript        2 hrs 18 mins   >>-----------------------   06.02 %
+Markdown          57 mins         >------------------------   02.47 %
+Diff              15 mins         -------------------------   00.68 %
 ```
 
 <!--END_SECTION:waka-->
