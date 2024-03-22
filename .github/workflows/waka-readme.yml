@@ -22,5 +22,5 @@ jobs:
           BLOCKS: ->
           TIME_RANGE: last_7_days
           LANG_COUNT: 6
-          IGNORED_LANGUAGES: YAML YML JSON
+          IGNORED_LANGUAGES: YAML YML JSON JavaScript TypeScript HTML
           CODE_LANG: golang
