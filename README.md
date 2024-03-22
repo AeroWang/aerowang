@@ -9,8 +9,6 @@ Total Time: 26 hrs 46 mins
 
 Java                   3 hrs 22 mins   >>>----------------------   12.60 %
 Groovy                 22 mins         -------------------------   01.42 %
-textmate               21 mins         -------------------------   01.35 %
-Text                   6 mins          -------------------------   00.40 %
 ```
 
 <!--END_SECTION:waka-->
