@@ -7,9 +7,7 @@ From: 14 March 2024 - To: 21 March 2024
 
 Total Time: 26 hrs 46 mins
 
-JavaScript             21 hrs 13 mins  >>>>>>>>>>>>>>>>>>>>-----   79.29 %
 Java                   3 hrs 22 mins   >>>----------------------   12.60 %
-TypeScript             42 mins         >------------------------   02.64 %
 Groovy                 22 mins         -------------------------   01.42 %
 textmate               21 mins         -------------------------   01.35 %
 Text                   6 mins          -------------------------   00.40 %
