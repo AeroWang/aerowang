@@ -3,15 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```golang
-From: 10 May 2024 - To: 17 May 2024
+From: 11 May 2024 - To: 18 May 2024
 
-Total Time: 21 mins
+Total Time: 17 mins
 
-Go         8 mins          >>>>>>>>>>---------------   39.45 %
-JSON       6 mins          >>>>>>>>-----------------   30.49 %
-Markdown   5 mins          >>>>>>>------------------   26.88 %
-YAML       0 secs          >------------------------   03.08 %
-Docker     0 secs          -------------------------   00.09 %
+Markdown   5 mins          >>>>>>>>-----------------   33.14 %
+Go         4 mins          >>>>>>>------------------   26.27 %
+YAML       0 secs          >------------------------   02.81 %
 ```
 
 <!--END_SECTION:waka-->
