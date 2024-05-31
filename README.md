@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Aero GitHub stats](https://github-readme-stats.vercel.app/api?username=aerowang&count_private=true&include_all_commits=true)
+<!-- ![Aero GitHub stats](https://github-readme-stats.vercel.app/api?username=aerowang&count_private=true&include_all_commits=true) -->
