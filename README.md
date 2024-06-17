@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```golang
-From: 08 June 2024 - To: 15 June 2024
+From: 09 June 2024 - To: 16 June 2024
 
-Total Time: 3 hrs 12 mins
+Total Time: 2 hrs 59 mins
 
-Rust           1 hr 28 mins    >>>>>>>>>>>--------------   45.96 %
-JSON           30 mins         >>>>---------------------   16.08 %
-Go             25 mins         >>>----------------------   13.06 %
-TOML           24 mins         >>>----------------------   12.52 %
-JavaScript     11 mins         >>-----------------------   06.14 %
+Rust             1 hr 28 mins    >>>>>>>>>>>>-------------   49.28 %
+TOML             31 mins         >>>>---------------------   17.50 %
+JSON             30 mins         >>>>---------------------   17.24 %
+JavaScript       11 mins         >>-----------------------   06.59 %
+Go               7 mins          >------------------------   03.94 %
 ```
 
 <!--END_SECTION:waka-->
