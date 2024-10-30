@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```golang
-From: 21 October 2024 - To: 28 October 2024
+From: 22 October 2024 - To: 29 October 2024
 
-Total Time: 15 hrs 20 mins
+Total Time: 17 hrs 24 mins
 
-TypeScript    12 hrs 31 mins  >>>>>>>>>>>>>>>>>>>>-----   81.62 %
-JavaScript    39 mins         >------------------------   04.28 %
-Prisma        28 mins         >------------------------   03.14 %
-TOML          8 mins          -------------------------   00.91 %
+TypeScript   13 hrs 22 mins  >>>>>>>>>>>>>>>>>>>------   76.85 %
+Prisma       1 hr 2 mins     >>-----------------------   06.03 %
+JavaScript   39 mins         >------------------------   03.74 %
+SQL          30 mins         >------------------------   02.89 %
 ```
 
 <!--END_SECTION:waka-->
