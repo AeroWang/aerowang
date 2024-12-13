@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```golang
-From: 04 December 2024 - To: 11 December 2024
+From: 05 December 2024 - To: 12 December 2024
 
-Total Time: 25 hrs 31 mins
+Total Time: 27 hrs 14 mins
 
-TypeScript       22 hrs 43 mins  >>>>>>>>>>>>>>>>>>>>>>---   89.04 %
-Markdown         41 mins         >------------------------   02.68 %
-Bash             25 mins         -------------------------   01.64 %
-.env file        17 mins         -------------------------   01.15 %
+TypeScript      25 hrs 43 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   94.40 %
+.env file       43 mins         >------------------------   02.64 %
+JavaScript      13 mins         -------------------------   00.80 %
+Markdown        5 mins          -------------------------   00.37 %
 ```
 
 <!--END_SECTION:waka-->
