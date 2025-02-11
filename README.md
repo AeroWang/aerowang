@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```golang
-From: 02 February 2025 - To: 09 February 2025
+From: 03 February 2025 - To: 10 February 2025
 
-Total Time: 3 hrs 2 mins
+Total Time: 8 hrs 59 mins
 
-JavaScript   3 hrs 2 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   99.57 %
-Text         0 secs          -------------------------   00.26 %
-SourceMap    0 secs          -------------------------   00.09 %
-Groovy       0 secs          -------------------------   00.07 %
+JavaScript   8 hrs 55 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.17 %
+TypeScript   3 mins          -------------------------   00.60 %
+Text         0 secs          -------------------------   00.09 %
+SourceMap    0 secs          -------------------------   00.03 %
 ```
 
 <!--END_SECTION:waka-->
