@@ -3,13 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```golang
-From: 01 March 2025 - To: 08 March 2025
+From: 02 March 2025 - To: 09 March 2025
 
-Total Time: 2 hrs 31 mins
+Total Time: 2 hrs 4 mins
 
-JavaScript   2 hrs 4 mins    >>>>>>>>>>>>>>>>>>>>>----   82.12 %
-PowerShell   26 mins         >>>>---------------------   17.69 %
-textmate     0 secs          -------------------------   00.18 %
+JavaScript   2 hrs 4 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   99.77 %
+textmate     0 secs          -------------------------   00.22 %
 C++          0 secs          -------------------------   00.01 %
 Markdown     0 secs          -------------------------   00.00 %
 ```
