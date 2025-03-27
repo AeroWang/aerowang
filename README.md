@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```golang
-From: 18 March 2025 - To: 25 March 2025
+From: 19 March 2025 - To: 26 March 2025
 
-Total Time: 53 hrs 59 mins
+Total Time: 45 hrs 4 mins
 
-TypeScript             26 hrs 16 mins  >>>>>>>>>>>>-------------   48.67 %
-Java                   10 hrs 6 mins   >>>>>--------------------   18.73 %
-Groovy                 4 hrs 28 mins   >>-----------------------   08.29 %
-JavaScript             4 hrs 27 mins   >>-----------------------   08.26 %
-XML                    4 hrs 16 mins   >>-----------------------   07.93 %
+TypeScript             20 hrs 51 mins  >>>>>>>>>>>>-------------   46.27 %
+Java                   9 hrs 11 mins   >>>>>--------------------   20.41 %
+JavaScript             4 hrs 27 mins   >>-----------------------   09.89 %
+XML                    4 hrs 9 mins    >>-----------------------   09.22 %
+Groovy                 3 hrs 17 mins   >>-----------------------   07.30 %
 ```
 
 <!--END_SECTION:waka-->
