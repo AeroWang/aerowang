@@ -3,15 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```golang
-From: 10 April 2025 - To: 17 April 2025
+From: 11 April 2025 - To: 18 April 2025
 
-Total Time: 14 hrs 9 mins
+Total Time: 17 hrs 7 mins
 
-TypeScript             9 hrs 17 mins   >>>>>>>>>>>>>>>>---------   65.68 %
-Kotlin                 3 hrs 2 mins    >>>>>--------------------   21.52 %
-JavaScript             53 mins         >>-----------------------   06.26 %
-Markdown               14 mins         -------------------------   01.73 %
-Java                   10 mins         -------------------------   01.24 %
+TypeScript             12 hrs 20 mins  >>>>>>>>>>>>>>>>>>-------   72.01 %
+Kotlin                 3 hrs 2 mins    >>>>---------------------   17.79 %
+JavaScript             53 mins         >------------------------   05.17 %
+Markdown               14 mins         -------------------------   01.43 %
 ```
 
 <!--END_SECTION:waka-->
