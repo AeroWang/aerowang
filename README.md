@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```golang
-From: 07 June 2025 - To: 14 June 2025
+From: 08 June 2025 - To: 15 June 2025
 
-Total Time: 10 hrs 54 mins
+Total Time: 18 hrs 31 mins
 
-Vue.js       5 hrs 28 mins   >>>>>>>>>>>>>------------   50.21 %
-JavaScript   2 hrs 54 mins   >>>>>>>------------------   26.62 %
-TypeScript   1 hr 30 mins    >>>----------------------   13.76 %
-HTML         43 mins         >>-----------------------   06.60 %
-EJS          12 mins         -------------------------   01.93 %
+Vue.js       5 hrs 28 mins   >>>>>>>------------------   29.56 %
+Astro        4 hrs 23 mins   >>>>>>-------------------   23.69 %
+JavaScript   4 hrs 9 mins    >>>>>>-------------------   22.43 %
+TypeScript   2 hrs 12 mins   >>>----------------------   11.93 %
+HTML         44 mins         >------------------------   04.04 %
 ```
 
 <!--END_SECTION:waka-->
