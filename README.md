@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```golang
-From: 16 August 2025 - To: 23 August 2025
+From: 17 August 2025 - To: 24 August 2025
 
 Total Time: 16 hrs 7 mins
 
