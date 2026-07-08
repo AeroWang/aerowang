@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```golang
-From: 05 January 2026 - To: 06 July 2026
+From: 06 January 2026 - To: 07 July 2026
 
-Total Time: 303 hrs 3 mins
+Total Time: 300 hrs 30 mins
 
-TypeScript             158 hrs 8 mins        >>>>>>>>>>>>>------------   52.18 %
-Kotlin                 36 hrs 6 mins         >>>----------------------   11.91 %
-Markdown               28 hrs 8 mins         >>-----------------------   09.28 %
-XML                    7 hrs 46 mins         >------------------------   02.56 %
-TOML                   5 hrs 47 mins         -------------------------   01.91 %
+TypeScript        160 hrs 12 mins       >>>>>>>>>>>>>------------   53.32 %
+Kotlin            31 hrs 58 mins        >>>----------------------   10.64 %
+Markdown          28 hrs 5 mins         >>-----------------------   09.35 %
+XML               7 hrs 3 mins          >------------------------   02.35 %
+TOML              5 hrs 50 mins         -------------------------   01.95 %
 ```
 
 <!--END_SECTION:waka-->
